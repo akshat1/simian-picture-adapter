@@ -1,0 +1,20 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 8,
+    "sourceType": "script",
+    "ecmaFeatures": {
+      "experimentalObjectRestSpread": true
+    }
+  },
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "extends": "eslint:recommended",
+  "rules": {
+    "no-console": "warn",
+    "valid-jsdoc": "error",
+    "curly": ["error", "multi"],
+    "indent": ["error", 2]
+  }
+}

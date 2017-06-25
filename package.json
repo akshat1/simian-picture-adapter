@@ -1,0 +1,24 @@
+{
+  "name": "simian-picture-adapter",
+  "version": "0.0.1",
+  "description": "Picture adapter for the Simian Server.",
+  "main": "lib/index.js",
+  "dependencies": {
+    "eslint": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "lint": "eslint lib/**/*.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshat1/simian-picture-adapter.git"
+  },
+  "author": "akshat.sh@gmail.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/akshat1/simian-picture-adapter/issues"
+  },
+  "homepage": "https://github.com/akshat1/simian-picture-adapter#readme"
+}
